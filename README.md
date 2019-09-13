@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="380" src="https://github.com/ChunYen-Chang/Automation-DataPipeline-for-USAImmigrationData/blob/master/image/logo_v2.jpg">
+  <img width="700" height="460" src="https://github.com/ChunYen-Chang/Automation-DataPipeline-for-USAImmigrationData/blob/master/image/logo_v2.jpg">
 </p>
 
 # Automation DataPipeline for USA Immigration Data
@@ -31,7 +31,7 @@ by python pandas packages, and loads the result back to S3. At the same time, th
 sent to a data warehouse (AWS Redshift) and use flask-schema to store the data. You can check the picture below. 
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/ChunYen-Chang/Automation-DataPipeline-for-USAImmigrationData/blob/master/image/conceptual_datapipeline_v2.jpg">
+  <img width="800" height="600" src="https://github.com/ChunYen-Chang/Automation-DataPipeline-for-USAImmigrationData/blob/master/image/conceptual_datapipeline_v2.jpg">
 </p>
 
 #
