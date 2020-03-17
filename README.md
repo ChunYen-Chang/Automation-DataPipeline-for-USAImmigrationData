@@ -18,8 +18,7 @@ also collects U.S. City Demography Data (this dataset comes from OpenSoft) and A
 information) and puts these two tables' data together with I-94 form data. 
 
 #### *PROJECT DESCRIPTION*
-The main goal of this project is creating a data warehouse which stores clean, well-organized, and detailed data in a Snowflake schema
-for U.S government departments and research facilities. To achieve this goal, this project builds an automation data pipeline. 
+The main goal of this project is creating a Cloue data platform for extracting data from local servers to a cloud data lake, executing data cleaming tasks by AWS EMR and storing the after-processing data in a cloud data warehouse with snow flask schema for U.S government departments and other research facilities to conduct future data analysis. To achieve this goal, this project builds an automation data pipeline. 
 This automation data pipeline helps us to extract data, transform data, and load data to the final datawaresouse. The description of
 the data pipeline conceptual structure is below.
 
