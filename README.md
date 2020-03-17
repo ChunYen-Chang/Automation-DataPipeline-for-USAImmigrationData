@@ -2,7 +2,7 @@
   <img width="750" height="550" src="https://github.com/ChunYen-Chang/Automation-DataPipeline-for-USAImmigrationData/blob/master/image/logo_v2.jpg">
 </p>
 
-# Automation DataPipeline for USA Immigration Data
+# Cloud Data Platform for USA Immigration Data
 
 ### PROJECT BACKGROUND AND SUMMARY
 
